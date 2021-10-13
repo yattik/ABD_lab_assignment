@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1634102162 source:d:\abd_lab_day1\day1.c
+	<stdio.h>
+
+1634102548 source:d:\abd_lab_day1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
